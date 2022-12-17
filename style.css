@@ -55,7 +55,7 @@ a img {
 .clearfix:before,.clearfix:after{content:'';display:table;}
 .clearfix:after{clear:both;}
 .clearfix{zoom:1;}
-.clearme { content: " "; display: block; width: 100%; min-height: 1px; clear: both; }
+.clearme:after { content: " "; display: block; width: 100%; min-height: 1px; clear: both; }
 /* set html5 elements to block */
 article, aside, details, figcaption, figure, footer, header, menu, nav, section {
     display: block;
