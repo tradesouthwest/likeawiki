@@ -22,6 +22,7 @@ Pleas use a Child Theme if you choose to make these changes. OPTIONS that are ed
 = 2.0.3 =
 * aligned comment form elements
 * fixed if is blog page
+* add tracking to github
 = 2.0.2 =
 * fixed toolbar position
 * fixed toolbar as a widget
